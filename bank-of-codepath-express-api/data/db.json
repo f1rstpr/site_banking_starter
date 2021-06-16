@@ -36,6 +36,41 @@
       "description": "Extra Large Iced Coffee, Local Brew Co.",
       "category": "Coffee",
       "amount": -365
+    },
+    {
+      "id": 5,
+      "postedAt": "2021-06-16T21:59:02.109Z",
+      "description": "chips",
+      "category": "food",
+      "amount": "100"
+    },
+    {
+      "id": 6,
+      "postedAt": "2021-06-16T22:01:22.774Z",
+      "description": "asd",
+      "category": "asdas",
+      "amount": "11"
+    },
+    {
+      "id": 7,
+      "postedAt": "2021-06-16T22:01:50.262Z",
+      "description": "asd",
+      "category": "asd",
+      "amount": "123"
+    },
+    {
+      "id": 8,
+      "postedAt": "2021-06-16T22:29:48.819Z",
+      "description": "Hello",
+      "category": "Chips",
+      "amount": "1"
+    },
+    {
+      "id": 9,
+      "postedAt": "2021-06-16T22:31:07.658Z",
+      "description": "water",
+      "category": "drink",
+      "amount": "0"
     }
   ]
 }
